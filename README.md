@@ -3,6 +3,8 @@
 A simple, elegant one-page waitlist for Siggraph BNMIT to collect early interest and notify students when registrations open.
 
 🔗 **Live here**: [https://siggraph-bnmit-waitlist.vercel.app](https://siggraph-bnmit-waitlist.vercel.app)
+<br>
+<img width="564" height="370" alt="image" src="https://github.com/user-attachments/assets/88552740-a68d-473d-b2de-ca5b7814f787" />
 
 ---
 
